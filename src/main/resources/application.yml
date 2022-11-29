@@ -1,0 +1,6 @@
+tao:
+  ibmmq:
+    host-name: localhost
+    port: 1414
+    queue-manager: QM1
+    channel: DEV.APP.SVRCONN
